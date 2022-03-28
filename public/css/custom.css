@@ -1,0 +1,43 @@
+body{
+background-image: linear-gradient(
+    96deg, rgb(54, 52, 52), rgb(54, 52, 52)) !important;
+   color: white !important;
+    
+}
+
+.shadow-square-bottom::before {
+background-image: linear-gradient(
+    200deg, rgba(78, 146, 249, 0.034), rgba(240, 9, 9, 0.642))!important;
+    }
+
+ .btn-klean {
+        
+        background-image: linear-gradient(
+    50deg, #db8186, #f94e4e)!important;
+    }    
+
+    .text-gradient {
+        background: -o-linear-gradient(40deg, white , white)!important;
+        background: linear-gradient(
+    50deg, #f9fafd, #f9fafd) !important;
+        -webkit-background-clip: text !important;
+        -webkit-text-fill-color: transparent!important;
+    }
+    
+    .fw-bold {
+        font-weight: 700 !important;
+    }
+    .fs-4 {
+        font-size: 80px !important;
+    }
+h1{
+    color:white !important;
+}
+h5{
+    color:white !important;
+}
+}
+p{
+    color:white !important;
+}
+
