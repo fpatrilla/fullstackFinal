@@ -1,2 +1,2 @@
 # fullstackFinal
-Proyecto echo en laravel 7
+Proyecto hecho en laravel 7
